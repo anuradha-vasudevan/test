@@ -51,9 +51,9 @@ function App() {
 
   return (
     <>
-    <h1>Hello   Git - Developer B</h1>
-    <p>Developer B is working on the project.</p>
-    <p>Developer B</p>
+    <h1>Hello Git-Developer BB</h1>
+    <p>Developer BB is working on the project.</p>
+    <p>Developer BB</p>
       <div className='dashboard'>
         <HeaderArea />
         <Summary allTasks={tasks} />
