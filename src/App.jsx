@@ -47,13 +47,10 @@ function App() {
       "Status": "In Progress"
     }]
   )
-
-
   return (
     <>
-    <h1>Hello   Git - Developer A</h1>
-    <p>Developer A is working on the project.</p>
-    <p>Developer A</p>
+    <h1>Hello   Git - Developer A</h1>    
+    <p>DeveloperA Anuradha.V</p>
       <div className='dashboard'>
         <HeaderArea />
         <Summary allTasks={tasks} />
