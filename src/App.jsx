@@ -50,8 +50,8 @@ function App() {
   return (
     <>
     <h1>Hello   Git - Developer A</h1>
-    <p>Developer A is working on the project.</p>
-    <p>Developer A</p>
+    <p>Developer is working on the project.</p>
+    <p>Developer rock</p>
       <div className='dashboard'>
         <HeaderArea />
         <Summary allTasks={tasks} />
